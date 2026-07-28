@@ -130,3 +130,23 @@ Test the affected service
 Confirm resolution with the user
             ↓
 Document the work completed
+
+## Evidence and Confidentiality
+
+Production screenshots from the company’s VMware ESXi and Windows Server environment are not published in this repository because they contain confidential infrastructure information.
+
+The excluded information may include:
+
+- Virtual machine names
+- Server hostnames
+- Internal IP addresses
+- Domain information
+- User accounts
+- Shared-folder paths
+- VMware ESXi inventory details
+- Business applications
+- Company network architecture
+
+This repository documents the systems-administration and remote-support activities I have performed without exposing the live production environment.
+
+Public evidence will only be added from sanitized diagrams or controlled lab environments that do not reveal organizational information.
