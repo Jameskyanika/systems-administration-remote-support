@@ -3,6 +3,12 @@
 This repository documents my practical experience in Windows systems administration, user support, file services, access management and remote technical support.
 
 The projects and case studies are based on tasks I have performed in business environments. All screenshots and documents are sanitized before publication.
+## Projects
+
+1. [Secure Remote Support Workflow](01-Remote-Support-Workflow.md)
+2. [Shared Folder and User Access Administration](02-Shared-Folder-and-User-Access.md)
+3. [Windows Server and User Administration](03-Windows-Server-and-User-Administration.md)
+4. [Remote Support Case Studies](04-Remote-Support-Case-Studies.md)
 
 ## Areas Covered
 
